@@ -10,8 +10,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 22,
-   "id": "10f35d26",
+   "execution_count": 1,
+   "id": "724b1d58",
    "metadata": {},
    "outputs": [
     {
@@ -27,7 +27,7 @@
        "<AxesSubplot:>"
       ]
      },
-     "execution_count": 22,
+     "execution_count": 1,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -86,7 +86,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": null,
+   "id": "5354988a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
    "id": "5ad3a794",
    "metadata": {},
    "outputs": [
@@ -103,7 +111,7 @@
        "<AxesSubplot:>"
       ]
      },
-     "execution_count": 8,
+     "execution_count": 2,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -138,7 +146,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 3,
    "id": "f09dc00d",
    "metadata": {},
    "outputs": [
@@ -155,7 +163,7 @@
        "<AxesSubplot:>"
       ]
      },
-     "execution_count": 10,
+     "execution_count": 3,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -202,7 +210,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 15,
+   "execution_count": 4,
    "id": "c1597435",
    "metadata": {},
    "outputs": [
@@ -219,7 +227,7 @@
        "<AxesSubplot:>"
       ]
      },
-     "execution_count": 15,
+     "execution_count": 4,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -284,7 +292,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 19,
+   "execution_count": 5,
    "id": "54a33016",
    "metadata": {},
    "outputs": [
@@ -301,7 +309,7 @@
        "<AxesSubplot:>"
       ]
      },
-     "execution_count": 19,
+     "execution_count": 5,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -349,7 +357,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
+   "execution_count": 6,
    "id": "b836caea",
    "metadata": {},
    "outputs": [
@@ -366,7 +374,7 @@
        "<AxesSubplot:>"
       ]
      },
-     "execution_count": 21,
+     "execution_count": 6,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -411,7 +419,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6fd5999a",
+   "id": "3898e6f5",
    "metadata": {},
    "source": [
     "Вывод 1: внедрение робовтов-автоотвечтиков в данном случае является не только не эффективным, но и отрицательным результатом\n",
